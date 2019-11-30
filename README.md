@@ -11,6 +11,6 @@ Feel free to post issues and if its an actualy issue with the code i will update
 Some of the code in here is NOT fully made by me but is updated with a little more content and is explained aswell!
 
 Things i will not do :
- i will not help you set up the commands
- i will not show you how to use command handlers 
- i will not help you with errors
+1. I will not help you set up the commands
+2. I will not show you how to use command handlers 
+3. I will not help you with errors
