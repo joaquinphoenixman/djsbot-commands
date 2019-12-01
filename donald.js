@@ -1,3 +1,6 @@
+// You can find more info on the code here :
+// https://github.com/joaquinphoenixman/djsbot-commands/blob/master/chucknorris.js
+
 const fetch = require('node-fetch');
 const { RichEmbed } = require('discord.js');
 const Discord = require("discord.js");
